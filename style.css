@@ -1,0 +1,29 @@
+#grandtitre
+{
+    text-decoration: underline wavy;
+    font-family: montserrat;
+    text-align: center;
+    font-size: 20px;
+}
+
+.souligner
+{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.alinea
+{
+    text-indent: 50px;
+}
+
+.rouge
+{
+    color: red;
+    font-weight: bold;
+}
+
+#footer
+{
+    text-align: center;
+}

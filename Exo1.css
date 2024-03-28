@@ -1,0 +1,28 @@
+#date{
+    text-align: center;
+    font-family: poppins;
+}
+
+#titre{
+    font-size: 3em;
+    font-family: poppins;
+    line-height: 55px;
+}
+
+#sylvie{
+    text-decoration: underline;
+    font-family: poppins;
+}
+
+#para{
+    font-family: poppins;
+    line-height: 25px;
+}
+
+#background{
+    background-color: #83b56c;
+}
+
+#italique{
+    font-style: italic;
+}
